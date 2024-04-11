@@ -1,0 +1,14 @@
+.box{
+    background-color: lightblue;
+    border-color: 1px solid blue;
+    padding: 10px;
+}
+
+.navLink{
+    background-color: black;
+    color: white;
+}
+
+.body{
+    background-color: gray;
+}
